@@ -1,0 +1,47 @@
+body{
+    background-image:url("https://img.freepik.com/premium-vector/healthcare-medical-science-background-with-icons-symbols-innovation-technology_120542-239.jpg?w=1380");
+    background-size: cover;
+}
+.hh{
+    text-align:center;
+    font-size:40px;
+}
+.ima2{
+    background-image: url("https://images.freekaamaal.com/post_images/1522818344.PNG");
+    background-size: cover;
+    height:150px;
+    width:300px;
+    float:center;
+    border:none;
+    border-radius:40px;
+}
+.ima3{
+    background-image: url("http://cdn.onlinewebfonts.com/svg/img_462181.png");
+    background-size: cover;
+    height:130px;
+    width:322px;
+    float:center;
+    border:none;
+    margin-left:130px;
+    border-radius:10px;
+}
+.div1{
+    background-color: rgb(198, 195, 195);
+    border-radius: 50px;
+    height: 600px;
+    width: 500px;
+    float:right;
+    margin-left:550px;
+    font-family:garamond;
+}
+.div2{
+    padding-right: 250px;
+}
+.button1{
+    background-color:rgb(0,0,0);
+    color:rgb(255,255,255);
+    border-radius:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-family:garamond;
+}

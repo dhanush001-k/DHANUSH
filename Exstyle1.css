@@ -1,0 +1,76 @@
+body{
+    background-image:url("https://img.freepik.com/premium-vector/healthcare-medical-science-background-with-icons-symbols-innovation-technology_120542-239.jpg?w=1380");
+    background-size: cover;
+}
+.hh2{
+    text-align:center;
+    font-size:40px;
+}
+.imag1{
+    background-image: url("https://images.jifo.co/31463404_1556602679274.png");
+    background-size: cover;  
+    background-color: rgba(128, 128, 128, 0);
+    margin-right:40px;
+    margin-top: -20px;
+    border:none;
+    border-radius: 20px;
+    height:140px;
+    width:160px;
+    float:right;
+    padding-right: 30px;
+}
+.imag2{
+    background-image: url("https://cdn-icons-png.flaticon.com/512/6124/6124998.png");
+    background-size: cover;
+    background-color: rgba(128, 128, 128, 0);
+    margin-left:40px;
+    border:none;
+    border-radius: 20px;
+    height:100px;
+    width:150px;
+    padding-left:30px;
+    padding-top:20px;
+}
+.imag3{
+    background-image: url("https://1000logos.net/wp-content/uploads/2021/03/Paytm_Logo.png");
+    background-size: cover;
+    background-color: rgba(128, 128, 128, 0);
+    margin-left:30px;
+    border:none;
+    height:100px; 
+    width:190px;        
+    padding-left:30px;
+}
+
+.imag5{
+    background-image: url("https://cdn.pixabay.com/photo/2015/05/26/09/37/paypal-784404_1280.png");
+    background-size: cover;
+    background-color: rgba(128, 128, 128, 0);
+    margin-right:30px;
+    margin-top: 20px;
+    border:none;
+    height:100px;
+    width:200px;
+    float:right;
+   padding-right: 30px;
+}
+.div1{
+    background-color:rgb(198, 195, 195);
+    border-radius: 50px;
+    height: 600px;
+    width: 500px;
+    float:right;
+    margin-left:550px;
+    font-family:garamond;
+}
+.div2{
+    padding-right: 250px;
+}
+.button2{
+    background-color:rgb(0,0,0);
+    color:rgb(255,255,255);
+    border-radius:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-family:garamond;
+}
