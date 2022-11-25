@@ -1,32 +1,11 @@
-
 import React, { Component } from 'react'
-import {BrowserRouter,Routes,Route,Link } from 'react-router-dom' ;
-// import Exp from './Exp'
-// import Exp1 from './Exp1'
-import Exp2 from './Exp2'
- import Exp3 from './Exp3'
-// import Exp4 from './Exp4'
-
-
- 
+import ValidatingForm from './ValidatingForm'; 
 function App() {
     return (
-      <BrowserRouter>
-      <div>
-        <Routes>
-        <Route path='/' element= {<Exp2/>}></Route>
-        {/* <Exp1/> */}
-        {/* <Exp/> */}
-        <Route path='/Exp2' element= {<Exp2/>}></Route>
-        <Route path='/Exp3' element= {<Exp3/>}></Route>
-        {/* <Route path='/Exp' element= {<Exp/>}></Route> */}
-        {/* <Route path='/Exp1' element= {<Exp1/>}></Route> */}
-        {/* <Exp3/> */}
-        {/* <Exp4/> */}
-        </Routes>
+      <div>          
+        <ValidatingForm/> 
       </div>
-       </BrowserRouter>
-    );
+    )
   }
 
 
